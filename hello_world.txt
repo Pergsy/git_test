@@ -1,1 +1,3 @@
 Hello world!
+
+I am testing out the new commit message
